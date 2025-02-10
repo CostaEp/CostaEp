@@ -12,9 +12,9 @@
  
  I’m currently working at <a href="https://www.matrix.co.il"><strong>Matrix</strong></a>
  
- I’m currently learning and practicing <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="40px" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jfrog/jfrog-original.svg" width="40px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40px" />
+ I’m currently learning and practicing ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![JFrog](https://img.shields.io/badge/JFrog-41BF47?style=flat&logo=jfrog&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
  💬 Ask me about **Docker, AWS, K8S, CI/CD... or anything [here](https://github.com/CostaEp/CostaEp/issues)**
 
