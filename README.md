@@ -12,7 +12,9 @@
  
  I’m currently working at <a href="https://www.matrix.co.il"><strong>Matrix</strong></a>
  
- 🌱 I’m currently learning **K8S, JFrog, AWS**
+ I’m currently learning and practicing <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="40px" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jfrog/jfrog-original.svg" width="40px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40px" />
 
  💬 Ask me about **Docker, AWS, K8S, CI/CD... or anything [here](https://github.com/CostaEp/CostaEp/issues)**
 
