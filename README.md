@@ -66,14 +66,14 @@
 <h2 align="center">🐍 My Contributions 🐍</h2>
 <div align="center">
   <br/>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/CostaEp/CostaEp/output/github-contribution-grid-snake.svg?duration=3" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/CostaEp/CostaEp/output/github-contribution-grid-snake.svg?" />
   <br/><br/><br/>
 </div>
 
 <h2 align="center">🐍 My Contributions 2025 (Ordered by Month) 🐍</h2>
 <div align="center">
   <br/>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/CostaEp/CostaEp/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/CostaEp/CostaEp/output/github-contribution-grid-snake.svg?calendar_order=month" />
   <br/><br/><br/>
 </div>
 
