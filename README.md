@@ -70,13 +70,6 @@
   <br/><br/><br/>
 </div>
 
-<h2 align="center">🐍 My Contributions 2025 (Ordered by Month) 🐍</h2>
-<div align="center">
-  <br/>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/CostaEp/CostaEp/output/github-contribution-grid-snake.svg?calendar_order=month" />
-  <br/><br/><br/>
-</div>
-
 ---
 
 <h2 align="center">📊 GitHub Stats</h2>
