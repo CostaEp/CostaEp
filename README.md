@@ -6,22 +6,35 @@
 
 <h3 align="center">🚀 Passionate DevOps Engineer | Cloud Enthusiast | Automation Expert</h3>
 
-<br/>
+---
+
+## 📌 Table of Contents  
+1️⃣ [🌍 Connect with Me](#-connect-with-me)  
+2️⃣ [⚒️ Tech Stack](#-tech-stack-)  
+3️⃣ [🐍 My Contributions](#-my-contributions-)  
+4️⃣ [📊 GitHub Stats](#-github-stats)  
+5️⃣ [💡 More About Me](#-more-about-me)  
+
+---
 
 <div align="center">
  
- I’m currently working at <a href="https://www.matrix.co.il"><strong>Matrix</strong></a>
+ 🔭 I’m currently working at <a href="https://www.matrix.co.il"><strong>Matrix</strong></a>
  
- I’m currently learning and practicing ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![JFrog](https://img.shields.io/badge/JFrog-41BF47?style=flat&logo=jfrog&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+ <h3>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=600&height=50&lines=Currently+Learning+and+Practicing;Kubernetes;JFrog;AWS" />
+ </h3>
+
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/JFrog-41BF47?style=flat&logo=jfrog&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
 
  💬 Ask me about **Docker, AWS, K8S, CI/CD... or anything [here](https://github.com/CostaEp/CostaEp/issues)**
 
- ⚡ Fun fact **I was the Israeli champion in Judo (1998-1999) in the 60kg category**
+ ⚡ Fun fact **I was the Israeli champion in Judo (1998-1999) in the 60kg category** 🥋
 
 </div>
- 
+
 ---
 
 <h2 align="center">🌍 Connect with Me</h2>
@@ -62,11 +75,11 @@
 <h2 align="center">📊 GitHub Stats</h2>
 <br>
 <div align="center" display="flex">
-  <img width=300 src="https://github-readme-stats.vercel.app/api?username=CostaEp&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=400 src="https://github-readme-stats.vercel.app/api?username=CostaEp&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="readme stats" />
     <br/>
-  <img width=300 src="https://readme-streak-stats.vercel.app/?user=CostaEp&count_private=true&theme=radical&border_radius=10" alt="streak stats"/>
+  <img width=400 src="https://readme-streak-stats.vercel.app/?user=CostaEp&count_private=true&theme=radical&border_radius=10" alt="streak stats"/>
     <br/>
-  <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=CostaEp&langs_count=20&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=CostaEp&langs_count=20&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 ---
