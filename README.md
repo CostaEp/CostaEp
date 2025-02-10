@@ -22,7 +22,7 @@
  🔭 I’m currently working at <a href="https://www.matrix.co.il"><strong>Matrix</strong></a>
  
  <h3>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=600&height=50&lines=Currently+Learning+and+Practicing;Kubernetes;JFrog;AWS" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=600&height=50&duration=3000&color=00FF00&lines=Currently+Learning+and+Practicing;🚀+Kubernetes;🐸+JFrog;☁️+AWS" />
  </h3>
 
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
