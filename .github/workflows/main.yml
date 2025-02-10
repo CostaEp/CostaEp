@@ -29,7 +29,7 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#ff0055,#7800ff,#00ffff,#00ff00,#ffff00
+            dist/ocean.gif?color_snake=orange&color_dots=#ff007f,#d400ff,#9c00e5,#008fff,#002b80
           
 
 
