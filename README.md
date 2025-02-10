@@ -50,7 +50,7 @@
 
 <h2 align="center">🐍 My Contributions 🐍</h2>
 <div align="center">
-  <br>
+  <br/>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/CostaEp/CostaEp/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
@@ -60,8 +60,10 @@
 <h2 align="center">📊 GitHub Stats</h2>
 <br>
 <div align="center" display="flex">
-  <img width=300 src="https://readme-streak-stats.vercel.app/?user=CostaEp&count_private=true&theme=radical&border_radius=10" alt="streak stats"/>
   <img width=300 src="https://github-readme-stats.vercel.app/api?username=CostaEp&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="readme stats" />
+    <br/>
+  <img width=300 src="https://readme-streak-stats.vercel.app/?user=CostaEp&count_private=true&theme=radical&border_radius=10" alt="streak stats"/>
+    <br/>
   <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=CostaEp&langs_count=8&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
