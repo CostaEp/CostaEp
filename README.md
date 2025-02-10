@@ -60,6 +60,7 @@
 <h2 align="center">📊 GitHub Stats</h2>
 <br>
 <div align="center" display="flex">
+  <img width=300 src="https://github-readme-streak-stats.herokuapp.com/?user=CostaEp&count_private=true&theme=radical&border_radius=10" alt="streak stats"/>
   <img width=300 src="https://streak-stats.demolab.com/?user=CostaEp&count_private=true&theme=radical&border_radius=10" alt="streak stats"/>
   <img width=300 src="https://github-readme-stats.vercel.app/api?username=CostaEp&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="readme stats" />
   <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=CostaEp&langs_count=8&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
